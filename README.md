@@ -4,9 +4,17 @@
 
 ###
 
-<h1 align="left">Hi 👋! My name is Punyakon Petchakew</h1>
+<h1 align="left">Hi  🥰 ! My name is Punyakon Petchakew</h1>
 
 ###
+
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/qmdsI5G8gYSt2/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -16,15 +24,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/punyakon-petchkaew-00178a247/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -36,12 +36,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/qmdsI5G8gYSt2/giphy.gif"  />
 </div>
 
 ###
