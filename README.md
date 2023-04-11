@@ -1,28 +1,35 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=A.A&"  />
-</div>
 
-###
 
 <h1 align="left">Hi  🥰 ! My name is Punyakon Petchakew</h1>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/qmdsI5G8gYSt2/giphy.gif"  />
+  <img height="300" src="https://media4.giphy.com/media/mTxoQPdo1LWIo/giphy.gif?cid=ecf05e4708vy92ij8151k9kzk3qbt1gbyt7421w6dtbygsux&rid=giphy.gif&ct=g"  />
 </div>
+
+<hr/>
 
 ###
 
-<br clear="both">
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as ?<br>- 📚 I'm currently learning ?<br>- ⚡ In my free time I ?</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=A&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmewzaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anmewzaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100003341523573" target="_blank">
@@ -42,3 +49,9 @@
 </div>
 
 ###
+
+<hr/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Anmewza&&style=flat-square" align="center" />
+</div>  
