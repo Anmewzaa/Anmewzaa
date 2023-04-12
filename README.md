@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi  🥰 ! My name is Punyakon Petchakew</h1>
+<h1 align="left">Hi  🥰 ! My name is Punyakon Petckkaew</h1>
 
 ###
 
@@ -25,8 +25,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmewzaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Anmewzaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmewzaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anmewzaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 <br/>
 <br/>
@@ -53,5 +54,5 @@
 <hr/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Anmewzaa&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Anmewzaa&&style=flat-square&color=b197fc" align="center"/>
 </div>  
