@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Anmew and I'm a DevOps Engineer (internship), from Opsta Thailand</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning about How to be Good Engineer<br>🎯 Goals: ?<br></p>
+<p align="left">✨ Writing code (and bugs) since 14/06/2021<br>📚 I'm currently learning about How to be Good Engineer<br>🎯 Goals: ?<br></p>
 
 ###
 
